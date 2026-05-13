@@ -2,20 +2,6 @@
 
 A comprehensive Retrieval-Augmented Generation (RAG) pipeline that enables intelligent document retrieval and question-answering using embeddings and vector search. This project demonstrates a complete workflow for building RAG systems with LangChain, ChromaDB, and SentenceTransformers.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Components](#components)
-- [Configuration](#configuration)
-- [Examples](#examples)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-
 ## 🎯 Overview
 
 This RAG pipeline implements a complete end-to-end workflow for:
